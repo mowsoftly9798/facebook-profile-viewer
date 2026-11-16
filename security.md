@@ -9,7 +9,7 @@ The **👀 Facebook Profile Viewer** is the most advanced tool for viewing publi
 
 <div align="center">
 
-[![Download Facebook Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/facebook-profile-viewer-free)
+[![Download Facebook Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/qWNKFq8IR1EdF6aNS)
 
 </div>
 
@@ -108,7 +108,7 @@ You need a way to view Facebook profiles. Without logging in. Quickly. Easily.
 6. **🔍 Enter Profile URL or Name** — paste Facebook profile link or name
 7. **🔎 Click Search** — view profile information
 
-[![Download Facebook Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/facebook-profile-viewer-free)
+[![Download Facebook Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/qWNKFq8IR1EdF6aNS)
 
 ### Viewing a Profile
 
@@ -210,7 +210,7 @@ View public Facebook profiles without logging in. **Facebook Profile Viewer** gi
 
 <div align="center">
 
-[![Download Facebook Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/facebook-profile-viewer-free)
+[![Download Facebook Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/qWNKFq8IR1EdF6aNS)
 
 **Version 4.6.1** — Facebook profile viewer. Free forever.
 
